@@ -1,0 +1,20 @@
+/*
+*Mia Casale 
+* Due Date 
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:white;
+}
+#beach{ width: 200px; height 600px;}
+#icecream{ width 300px; height 100px;}
+#disneyworld{ width 200px; height: 100px;}
